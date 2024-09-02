@@ -315,7 +315,7 @@ PrefabInstance:
     - target: {fileID: -973084862543737302, guid: cd96266cf98d4af40b440c77a81b339c, type: 3}
       propertyPath: m_Asset
       value: 
-      objectReference: {fileID: 8926484042661614526, guid: c309f636c5debd6439466d15a2353fa7, type: 3}
+      objectReference: {fileID: 8926484042661614526, guid: 6fa33f73cd6123640a167e3c7b11344b, type: 3}
     - target: {fileID: -973084862543737302, guid: cd96266cf98d4af40b440c77a81b339c, type: 3}
       propertyPath: m_PropertySheet.m_Uint.m_Array.Array.size
       value: 1
